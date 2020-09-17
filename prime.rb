@@ -8,4 +8,4 @@ def prime?(num)
     n % num == 0
   end
  end
-end 
+end
