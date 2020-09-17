@@ -7,4 +7,5 @@ def prime?(num)
   elsif (2..n%2).none? do |num|
     n % num == 0
   end
-end
+ end
+end 
